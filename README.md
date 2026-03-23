@@ -2,8 +2,8 @@
 
 A simple and powerful command-line task manager. Add, list, complete, edit, search, and track tasks right from your terminal — no account, no cloud, just a local JSON file in your home directory.
 
-[![CI](https://github.com/ankitwahane/Command-Line-Task-Manager/actions/workflows/ci.yml/badge.svg)](https://github.com/ankitwahane/Command-Line-Task-Manager/actions/workflows/ci.yml)
-[![npm version](https://badge.fury.io/js/cli-task-manager.svg)](https://www.npmjs.com/package/cli-task-manager)
+[![CI](https://github.com/ankitw497/Command-Line-Task-Manager/actions/workflows/ci.yml/badge.svg)](https://github.com/ankitw497/Command-Line-Task-Manager/actions/workflows/ci.yml)
+[![npm version](https://badge.fury.io/js/%40ankitw497%2Ftask-manager.svg)](https://www.npmjs.com/package/@ankitw497/task-manager)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 ---
@@ -11,7 +11,7 @@ A simple and powerful command-line task manager. Add, list, complete, edit, sear
 ## Installation
 
 ```bash
-npm install -g cli-task-manager
+npm install -g @ankitw497/task-manager
 ```
 
 > Requires Node.js >= 18
@@ -163,7 +163,7 @@ TASK_MANAGER_DATA_DIR=/path/to/dir task list
 ## Development
 
 ```bash
-git clone https://github.com/ankitwahane/Command-Line-Task-Manager.git
+git clone https://github.com/ankitw497/Command-Line-Task-Manager.git
 cd Command-Line-Task-Manager
 npm install
 

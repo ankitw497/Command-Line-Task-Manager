@@ -1,5 +1,5 @@
 {
-  "name": "cli-task-manager",
+  "name": "@ankitw497/task-manager",
   "version": "1.0.0",
   "description": "A simple and powerful command-line task manager — add, list, complete, edit, search and track tasks right from your terminal.",
   "type": "module",
@@ -24,12 +24,12 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/ankitwahane/Command-Line-Task-Manager.git"
+    "url": "https://github.com/ankitw497/Command-Line-Task-Manager.git"
   },
   "bugs": {
-    "url": "https://github.com/ankitwahane/Command-Line-Task-Manager/issues"
+    "url": "https://github.com/ankitw497/Command-Line-Task-Manager/issues"
   },
-  "homepage": "https://github.com/ankitwahane/Command-Line-Task-Manager#readme",
+  "homepage": "https://github.com/ankitw497/Command-Line-Task-Manager#readme",
   "engines": {
     "node": ">=18.0.0"
   },
