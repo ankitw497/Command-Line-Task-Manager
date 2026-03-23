@@ -3,7 +3,7 @@
 A simple and powerful command-line task manager. Add, list, complete, edit, search, and track tasks right from your terminal — no account, no cloud, just a local JSON file in your home directory.
 
 [![CI](https://github.com/ankitw497/Command-Line-Task-Manager/actions/workflows/ci.yml/badge.svg)](https://github.com/ankitw497/Command-Line-Task-Manager/actions/workflows/ci.yml)
-[![npm version](https://badge.fury.io/js/%40ankitw497%2Ftask-manager.svg)](https://www.npmjs.com/package/@ankitw497/task-manager)
+[![npm version](https://badge.fury.io/js/command-line-tool-task-manager.svg)](https://www.npmjs.com/package/command-line-tool-task-manager)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 ---
@@ -11,7 +11,7 @@ A simple and powerful command-line task manager. Add, list, complete, edit, sear
 ## Installation
 
 ```bash
-npm install -g @ankitw497/task-manager
+npm install -g command-line-tool-task-manager
 ```
 
 > Requires Node.js >= 18

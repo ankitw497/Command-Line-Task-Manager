@@ -1,5 +1,5 @@
 {
-  "name": "@ankitw497/task-manager",
+  "name": "command-line-tool-task-manager",
   "version": "1.0.0",
   "description": "A simple and powerful command-line task manager — add, list, complete, edit, search and track tasks right from your terminal.",
   "type": "module",
